@@ -1,4 +1,8 @@
-# Machine-learning-projects
+<div align="center" id="top"> 
+  
+ # :fire: ML_projects 
+
+## Some of my open-source projects
 This repository contains some of my machine learning projects
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/Karthik-Pandaram/Machine-learning-projects?color=56BEB8">
